@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(0, 36, 56);
+}
+label{
+    color: white;
+}
+legend{
+    color: white;
+    font-size: larger;
+}
+h1{
+   color:rgb(55, 55, 255) ;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow:   
+        -2px -2px 10px white, /* -2 esquerda -2 cima*/
+         2px -2px 10px white, /* 2 direita -2 cima*/
+        -2px  2px 20px black,
+         2px  2px 20px black; /* Contorno */
+}
+img{
+   margin-bottom: 80px;
+   position: absolute;
+   margin-left: 400px;
+}
+fieldset{
+    position: absolute;
+    width: 1200px;
+}
+
+a{
+    color: white;
+}
